@@ -1,8 +1,8 @@
-# Hi there 👋
+## Hi there 👋
 
-## 🌱 I’m currently learning Data Structures & Algorithms, Computer Organization, and Foundations of Computer Science.
-## 💬 Ask me about cars! I especially enjoy German cars.
-## 🔭 I’m currently working on my degree and obtaining a SWE internship!
+### 🌱 I’m currently learning Data Structures & Algorithms, Computer Organization, and Foundations of Computer Science.
+### 💬 Ask me about cars! I especially enjoy German cars.
+### 🔭 I’m currently working on my degree and obtaining a SWE internship!
 
 <!--
 **cvano/cvano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
