@@ -1,8 +1,8 @@
 # Hello, I'm Clay 👨‍💻
-  I'm a 2nd year CS student at the University of Michigan.
+  I'm a 3rd year CS student at the University of Michigan.
 
 ## About Me 
-  🌱 I’m currently learning C++, Python, and JavaScript.
+  🌱 I’m continuing learning C++, and starting to learn Python, JavaScript, HTML, and CSS.
   
   🔭 I’m currently working on my degree, personal projects, leetcoding, and obtaining a SWE internship!
   
