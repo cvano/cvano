@@ -1,5 +1,5 @@
 # Hello, I'm Clay 👨‍💻
-  I'm a 3rd year CS student at the University of Michigan. This summer I am interning in software development at United Wholesale Mortgage in Pontiac, MI!
+  I'm a 3rd year CS student at the University of Michigan. I was a Software Development Intern at United Wholesale Mortgage in Pontiac, MI in Summer 2023. Currently looking for Summer 2024 opportunities!
 
 ## About Me 
   🌱 I’m continuing learning C++, and am learning HTML/CSS, Python, and Flask for web development.
