@@ -8,7 +8,7 @@
 ## About Me 
   🌱 I’m continuing learning C++, and am learning HTML/CSS, Python, and Flask for web development.
 
-  🏆 I recently won a Hackathon award with a team at [MHacks 16](https://devpost.com/software/wolvwealth?ref_content=my-projects-tab&ref_feature=my_projects)
+  🏆 I recently won a Hackathon award with a team at [MHacks 16](https://mhacks-16.devpost.com/), for building [WolvWealth]((https://devpost.com/software/wolvwealth) 
   
   🔭 I’m currently working on my degree, personal projects, leetcoding, and pursuing a SWE career!
   
