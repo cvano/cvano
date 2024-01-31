@@ -22,8 +22,8 @@
   🍿 Fun Fact: I really enjoy the Breaking Bad and Better Call Saul TV shows.
 
 ### Hackathon Wins:
-  2024 - I won a Hackathon award with a team at [Spartahack 9](https://spartahack-9.devpost.com/), for building [MichMoney](https://devpost.com/software/michmoney) 
-  2023 - I won a Hackathon award with a team at [MHacks 16](https://mhacks-16.devpost.com/), for building [WolvWealth](https://devpost.com/software/wolvwealth) 
+  - I won a Hackathon award with a team at [Spartahack 9](https://spartahack-9.devpost.com/), for building [MichMoney](https://devpost.com/software/michmoney) 
+  - I won a Hackathon award with a team at [MHacks 16](https://mhacks-16.devpost.com/), for building [WolvWealth](https://devpost.com/software/wolvwealth) 
 
 ### My skills:
   - Languages: C++, Python, SQL, a little JavaScript
