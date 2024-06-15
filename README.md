@@ -1,7 +1,7 @@
 # Hello, I'm Clay!
-  I'm a 3rd year Computer Science student at the University of Michigan. Go Blue! 〽️
+  I'm a rising senior Computer Science student at the University of Michigan. Go Blue! 〽️🏆
   
-  In Summer 2024, I will be a Software Engineer Intern at Raymond James!
+  This Summer, I am a Software Engineer Intern at Raymond James & Associates!
   
   In Summer 2023, I was a Software Development Intern at United Wholesale Mortgage. 
   
