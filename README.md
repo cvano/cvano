@@ -7,7 +7,7 @@
   
 
 ## About Me 
-  🌱 I’m continuing learning C++, and am learning about operating systems this semester.
+  🌱 I’m currently learning about TypeScript and Angular.
 
   🏆 Recently I've been participating in hackathons and have won some prizes! Check them out below!
   
