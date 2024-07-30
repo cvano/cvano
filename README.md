@@ -1,9 +1,9 @@
 # Hello, I'm Clay!
   I'm a rising senior Computer Science student at the University of Michigan. Go Blue! 〽️🏆
   
-  This Summer, I am a Software Engineer Intern at Raymond James & Associates!
+  This Summer, I was a Software Engineer Intern at Raymond James.
   
-  In Summer 2023, I was a Software Development Intern at United Wholesale Mortgage. 
+  In Summer 2023, I was a Software Engineer Intern at United Wholesale Mortgage. 
   
 
 ## About Me 
