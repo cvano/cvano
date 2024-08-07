@@ -7,9 +7,9 @@
   
 
 ## About Me 
-  🌱 I’m currently learning about TypeScript and Angular.
+  🌱 I’m currently learning about Distributed Systems, Formal Verification of Distributed Systems, and Conversational AI.
 
-  🏆 Recently I've been participating in hackathons and have won some prizes! Check them out below!
+  🏆 Recently I've been learning TypeScript and Angular!
   
   🔭 I’m currently working on my degree, personal projects, and pursuing a SWE career!
   
