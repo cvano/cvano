@@ -7,7 +7,7 @@
   
 
 ## About Me 
-  🌱 I’m currently learning about Distributed Systems, Formal Verification of Distributed Systems, and Conversational AI.
+  🌱 I’m currently learning about Distributed Systems, Formal Verification of Systems Software, and Conversational AI.
 
   🏆 Recently I've been learning TypeScript and Angular!
   
