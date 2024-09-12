@@ -25,7 +25,7 @@
   - I won a Hackathon award at [MHacks 16](https://mhacks-16.devpost.com/), for building [WolvWealth](https://devpost.com/software/wolvwealth) 
   - I won a Hackathon award at [Spartahack 9](https://spartahack-9.devpost.com/), for building [MichMoney](https://devpost.com/software/michmoney) 
   
-
+<!--
 ### My skills:
   - Languages:
     - C++, Python, SQL, HTML, CSS
@@ -34,7 +34,7 @@
     - Flask, React.js, a bit of TailwindCSS
     - Angular, RxJS
     - Linux, Bash
-
+-->
 
 <!--
 - ⚡ Fun fact: ...
