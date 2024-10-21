@@ -17,7 +17,7 @@
   
   💬 Ask me about cars, college football, finance & investing, or Formula 1!
   
-  📫 Best ways to reach me: [LinkedIn](https://www.linkedin.com/in/clay-vanophem/), [Email](mailto:cvano@umich.edu)
+  📫 Best way to reach me: [Email](mailto:cvano@umich.edu)
   
   <!---🍿 Fun Fact: I really enjoy the Breaking Bad and Better Call Saul TV shows. I've watched both more than 3 times. -->
 
