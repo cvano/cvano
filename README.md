@@ -1,15 +1,10 @@
 # Hello, I'm Clay!
   I'm a senior Computer Science student at the University of Michigan. Go Blue! 〽️
-  
-  In Summer 2024, I was a Software Engineer Intern at Raymond James in St. Petersburg, Florida.
-  
-  In Summer 2023, I was a Software Engineer Intern at United Wholesale Mortgage. 
-  
+
+  I'm a Software Engineer, incoming at Bloomberg, previously interned at Raymond James and United Wholesale Mortgage.
 
 ## About Me 
-  🌱 I’m currently learning about Distributed Systems with Go, and Conversational AI.
-
-  🏆 Recently I've been learning TypeScript and Angular!
+  🌱 I’m currently learning about Compilers with Rust, Distributed Systems with Go, and Conversational AI.
   
   🔭 I’m currently working on my degree, personal projects, and pursuing a SWE career!
   
