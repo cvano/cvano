@@ -1,5 +1,5 @@
 # Hello, I'm Clay!
-  I'm a Software Engineer at Bloomberg and recently graduated with my Computer Science degree from the University of Michigan. Go Blue! 〽️
+  I'm a Software Engineer at Bloomberg and graduated with my Computer Science degree from the University of Michigan. Go Blue! 〽️
 
 ### Hackathon Wins:
   - I won a Hackathon award at [MHacks 16](https://mhacks-16.devpost.com/), for building [WolvWealth](https://devpost.com/software/wolvwealth) 
